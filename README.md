@@ -1,7 +1,5 @@
 # Introducción a GIT
 
-# Comandos básicos de Git
-
 ## Clonar un repositorio
 ```bash
 git clone <url-del-repositorio>
