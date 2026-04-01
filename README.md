@@ -1,4 +1,4 @@
-# Introducción a GIT
+# Git: comandos básicos
 
 ## Clonar un repositorio
 ```bash
