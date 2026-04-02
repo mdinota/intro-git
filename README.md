@@ -27,6 +27,19 @@ Muestra los cambios actuales, archivos modificados y en el index o staging area.
 
 ---
 
+## Ver diferencias en cambios
+```bash
+git diff
+```
+Muestra las diferencias entre los cambios no confirmados y el último commit.
+
+Ver diferencias en el index o staging area:
+```bash
+git diff --staged
+```
+
+---
+
 ## Ver el historial de commits
 ```bash
 git log
